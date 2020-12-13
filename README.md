@@ -13,5 +13,5 @@ Significado:
   
 &nbsp;  
   
-## This is a project for hair salon scheduller, executed in a web environment.  
+## This is a project for hair salon scheduler, executed in a web environment.  
 This description will be continued...  
