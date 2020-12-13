@@ -1,5 +1,5 @@
 # Koureias & Champagne  
-Koureias &amp; Champagne  
+Private project, in portfolio development.
 ---  
 Pronúncia: _kurias_ e _xampanhe_;  
   
