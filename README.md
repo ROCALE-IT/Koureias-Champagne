@@ -1,6 +1,7 @@
 # Koureias & Champagne  
-Private project, in portfolio development.
----  
+Private project, in portfolio development.  
+  
+--
 Pronúncia: _kurias_ e _xampanhe_;  
   
 Etimologia: grega e francesa;  
